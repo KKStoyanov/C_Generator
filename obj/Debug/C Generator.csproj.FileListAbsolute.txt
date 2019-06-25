@@ -9,3 +9,4 @@ C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C Generator
 C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C Generator.pdb
 C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C_Generator.MainPage.resources
 C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C_Generator.ClothingDisplayPage.resources
+C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C_Generator.AddClothing.resources
