@@ -1,0 +1,11 @@
+C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\bin\Debug\C Generator.exe.config
+C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\bin\Debug\C Generator.exe
+C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\bin\Debug\C Generator.pdb
+C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C Generator.csprojAssemblyReference.cache
+C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C_Generator.Properties.Resources.resources
+C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C Generator.csproj.GenerateResource.cache
+C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C Generator.csproj.CoreCompileInputs.cache
+C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C Generator.exe
+C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C Generator.pdb
+C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C_Generator.MainPage.resources
+C:\Users\E096527\Desktop\Workspace\C Generator\C Generator\obj\Debug\C_Generator.ClothingDisplayPage.resources
