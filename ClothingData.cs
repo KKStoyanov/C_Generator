@@ -33,6 +33,8 @@ namespace C_Generator
         private ArrayList cShoes = new ArrayList();
         private ArrayList sShoes = new ArrayList();
 
+        //this comment is to check if i am in another branch
+
         private ClothingData() {
             //NP : no preference
             PieceOfClothing blackDenimJacket = new PieceOfClothing("J", "NP", "Black Denim Jacket");
